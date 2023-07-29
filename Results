@@ -1,0 +1,3 @@
+We have calculated the accuracies of 4 machine learning models which are logistic model,SVC model,decision tree classifier and the random forest classifier.
+
+Out of these 4 models the random forest classifier has the highest accuracy of 0.99 
