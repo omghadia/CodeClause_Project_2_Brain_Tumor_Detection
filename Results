@@ -1,0 +1,3 @@
+I have calculated the accuracies,precision scores and the recall scores of the four models trained namely logistic,SVC,decision tree and the random forest.
+
+Out of the four above models the random forest classifier has the highest accuracy score of 0.99
