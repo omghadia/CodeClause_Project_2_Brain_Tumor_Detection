@@ -22,7 +22,8 @@ Here's a overview of the project's components:
 4. Model Evaluation: Evaluate the performance of the trained models using appropriate metrics, such as accuracy, precision and recall scores.
 
 Dataset : The success of this project heavily relies on the availability of high-quality medical imaging data. However, due to privacy and ethical concerns, medical imaging datasets are not always freely available.
-For this project, I have utilized the  Brain Tumor Dataset, which consists of brain MRI scans collected from multiple medical centers. The dataset contains labeled images, with each image categorized as either "Tumor" or "Non-Tumor." If you wish to access the dataset, please follow the instructions provided in the data directory.
+For this project, I have utilized the  Brain Tumor Dataset, which consists of brain MRI scans collected from multiple medical centers. The dataset contains labeled images, with each image categorized as either "Tumor" or "No-Tumor." If you wish to access the dataset, please follow this link :     
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 Methodology : The project uses the following methodologies for brain tumor detection:
 1. Data Preprocessing: This includes image resizing, normalization, and data augmentation techniques to increase the model's robustness.
